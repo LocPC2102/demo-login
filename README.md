@@ -14,7 +14,7 @@ Trang login này **lấy cảm hứng** từ một thiết kế trên YouTube, s
 
 ## Cách chạy
 1. Clone repo.
-2. Mở `signin.html` bằng trình duyệt.
+2. Mở `index.html` bằng trình duyệt.
 
 ## License
 - Ảnh: [Pinterest](https://i.pinimg.com/736x/3b/c1/85/3bc1852d99ac0162c87bb1adc136cc3b.jpg) (miễn phí).  
