@@ -1,6 +1,6 @@
 # Demo Login UI
 
-Demo: (https://locpc2102.github.io/demo-login/index.html)
+Demo: https://locpc2102.github.io/demo-login/index.html
 
 ## Mô tả
 Trang login này **lấy cảm hứng** từ một thiết kế trên YouTube, sau đó được mình code lại và bổ sung nhiều tính năng.
@@ -15,6 +15,7 @@ Trang login này **lấy cảm hứng** từ một thiết kế trên YouTube, s
 ## Cách chạy
 1. Clone repo.
 2. Mở `index.html` bằng trình duyệt.
+3. Visual studio code
 
 ## License
 - Ảnh: [Pinterest](https://i.pinimg.com/736x/3b/c1/85/3bc1852d99ac0162c87bb1adc136cc3b.jpg) (miễn phí).  
