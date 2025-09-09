@@ -2,25 +2,25 @@
 
 Demo: https://locpc2102.github.io/demo-login/index.html
 
-## Mô tả
-Trang login này **lấy cảm hứng** từ một thiết kế trên YouTube, sau đó được mình code lại và bổ sung nhiều tính năng.
+## Description
+This login page is inspired by a design on YouTube, then recoded and enhanced with additional features.
 
-## Những gì đã thay đổi so với bản gốc
-- Thay đổi màu chủ đạo và hình nền.
-- Thêm Javascript để xử lý login (kiểm tra email, password, hiển thị lỗi).
-- Thêm chức năng chuyển ngôn ngữ (VI / EN).
-- Thay thế các ảnh gốc bằng ảnh miễn phí phù hợp với chủ đề.
-- Bổ sung animation và tương tác mượt hơn.
+## Changes Compared to the Original
+- Changed the primary color scheme and background image.
+- Added JavaScript to handle login (email & password validation, error display).
+- Added language switcher (VI / EN).
+- Replaced original images with free resources that fit the theme.
+- Enhanced animations and smoother interactions.
 
-## Cách chạy
+## How to Run
 1. Clone repo.
-2. Mở `index.html` bằng trình duyệt.
-3. Visual studio code
+2. Open index.html in a browser.
+3. (Optional) Use Visual Studio Code for better editing experience.
 
 ## License
-- Ảnh: [Pinterest](https://i.pinimg.com/736x/3b/c1/85/3bc1852d99ac0162c87bb1adc136cc3b.jpg) (miễn phí).  
-- Font: [Google Fonts](https://fonts.google.com/).
+- Image: Pinterest (free to use). 
+- Font: Google Fonts.
 
-## Ghi chú
-- Đây là demo login **lấy cảm hứng** từ một thiết kế trên YouTube.  
-- Tất cả phần code, thiết kế và chức năng mới được viết lại bởi mình.
+## Notes
+- This is a demo login page inspired by a YouTube design.
+- All code, design, and newly added features were written by me.
